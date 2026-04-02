@@ -1,0 +1,8 @@
+Chạy cmd từ thư mục chứa app
+Chạy lệnh: npm run dev
+Mở web theo link: http://localhost:3000/?super=true
+User: superadmin
+MK: Admin@123
+
+Hoặc chạy file start.bat để cài đặt các thư viện còn thiếu nếu báo lỗi
+
